@@ -1,6 +1,6 @@
 # circle_custom
 
-Had fun experimenting with CustomPainter
+Had fun experimenting with CustomPainter and AnimatedBuilder!
 
 ## Getting Started
 
