@@ -6,4 +6,4 @@ Had fun experimenting with CustomPainter and AnimatedBuilder!
 
 Below is the result.
 
-![Image description](screenshot.png)
+<img src="circle.gif" width="425"/>
